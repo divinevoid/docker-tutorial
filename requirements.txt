@@ -1,0 +1,10 @@
+pandas
+nltk
+re
+scikit-learn
+pickle
+fastapi
+uvicorn
+gunicorm
+uvtools
+httptools
